@@ -26,3 +26,18 @@ const newJeans = '뉴진스';
 console.log(newJeans);
 
 //newJeans = '안유진';
+
+/**
+ * 선언과 할당
+ * 
+ * 1) 변수를 선언하는 것,
+ * 
+ */
+
+var name='코드팩토리';
+console.log(name);
+
+let girlFriend;
+console.log(girlFriend);
+
+//const girlFriend2;
