@@ -47,8 +47,15 @@ console.log(!!'x');//true
 console.log(!!''); //false
 console.log(!!0); //false
 console.log(!!'0'); //true
-
+console.log(!!false); //false
+console.log(!!undefined); //false
+console.log(!!null); //false
+console.log(!!{}); //true
 
 /**
+ * 1) 아무글자도 없는 string 
+ * 2) 값이 없는 경우
+ * 3) 0
  * 
+ * 모두 false를 반환한다.
  */
