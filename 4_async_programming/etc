@@ -1,0 +1,5 @@
+Javascript 는 single Threaded 이다!
+어느 한 순간에 동시에 단 하나의 작업만 실행 할 수 있다.
+
+
+<sync 동기>
